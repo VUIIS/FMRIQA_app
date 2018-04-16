@@ -1,5 +1,5 @@
 # FMRIQA_app
-This includes everything required (except for the "spm12r6225_with_vbm8r435_compiled" directory and "FMRIQA_v4_0_0", which are too large to commit) to build a docker and corresponding singularity container for the FMRIQA pipeline. 
+This includes everything required (except for the "spm12r6225_with_vbm8r435_compiled" directory and "FMRIQA_v4_0_0" compiled MATLAB executable, which are too large to commit) to build a docker and corresponding singularity container for the FMRIQA pipeline. 
 
 [Docker Hub](https://hub.docker.com/r/vuiiscci/fmriqa/tags/)
 
